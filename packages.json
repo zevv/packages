@@ -18478,5 +18478,19 @@
     "description": "Serializer and tools for flat binary files.",
     "license": "MIT",
     "web": "https://github.com/treeform/flatty"
+  },
+  {
+    "name": "nimcmaes",
+    "url": "https://github.com/zevv/nimcmaes",
+    "method": "git",
+    "tags": [
+      "cmaes",
+      "cma-es",
+      "optimization",
+      "numerical"
+    ],
+    "description": "Nim CMAES library",
+    "license": "Apache-2.0",
+    "web": "https://github.com/zevv/nimcmaes"
   }
 ]
